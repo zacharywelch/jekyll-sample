@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Most Interesting Title
 ---
 

@@ -1,0 +1,6 @@
+exclude:
+plugins:
+markdown: kramdown
+highlighter: rouge
+baseurl: "" # does not include hostname
+permalink: pretty
